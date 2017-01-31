@@ -1,0 +1,34 @@
+body {
+    background-color: #EBEEF1;
+}
+header {
+     background-color: #C4CCD7;
+}
+
+header h1 {
+    font-size: 50px;
+    color: #27476E;
+    text-align: center;
+}
+#productDescription {
+    background-color: #B0BCCA;
+    padding: 50px;
+    margin: 0px 180px 60px 180px;
+}
+#productDescription div {
+    font-size: 40px;
+}
+#order {
+    background-color: #D7DDE4;
+    padding: 50px;
+    margin: 0px 180px 60px 180px;
+}
+footer {
+    background-color: #C4CCD7;
+    padding: 100px;
+    margin: 0px 180px 180px 180px;
+}
+footer p {
+    color: #27476E;
+    text-align: center;
+}
